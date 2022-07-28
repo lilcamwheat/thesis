@@ -1,6 +1,6 @@
 # MPhil Thesis
 
-This repo contains all the code used for my MPhil Thesis. The data contains patient information and cannot be made publically available but this code can be used with other metabolomics. The primary package used in this project was the lilikoi R package (https://pubmed.ncbi.nlm.nih.gov/33484242/). An additional package used was the survey package (https://cran.r-project.org/web/packages/survey/survey.pdf), which was useful to adapt the prognosis model to case-cohort studies.
+This repo contains all the code used for my MPhil Thesis. The data contains patient information and cannot be made publically available but this code can be used with other metabolomics datasets. The primary package used in this project was the lilikoi R package (https://pubmed.ncbi.nlm.nih.gov/33484242/). An additional package used was the survey package (https://cran.r-project.org/web/packages/survey/survey.pdf), which was useful to adapt the prognosis model to case-cohort studies.
 
 ## Main Code
 
